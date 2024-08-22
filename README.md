@@ -1,6 +1,6 @@
-### Passgen
+## Passgen
 
-## Usage
+# Usage
 
     Usage: passgen [options]
     Options:
